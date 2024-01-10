@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/spf13/viper v1.16.0
-	github.com/tristin2024/logs v1.0.10
+	github.com/tristin2024/logs v1.0.1
 )
 
 require (
